@@ -1,0 +1,19 @@
+{
+    "Id": "800800",
+    "Product": "Common Icons",
+    "Biom": "",
+    "PackageID": "",
+    "OrderType": "Designed",
+    "Tags": "",
+    "State": "Draft",
+    "Description": "",
+    "Name": "Delete Icon",
+    "Resolutions": "16x16,24x24,32x32",
+    "VersionNumber": "0.1",
+    "Requirements": "",
+    "Requester": "Requestername2",
+    "IconLocation": "Iconname.png",
+    "NeededUntil": "",
+    "RequesterMail": "requester2@dspace.de",
+    "Iterations": "Draft, Final"
+}

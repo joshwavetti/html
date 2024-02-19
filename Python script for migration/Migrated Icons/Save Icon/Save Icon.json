@@ -1,0 +1,19 @@
+{
+    "Id": "800801",
+    "Product": "Common Icons",
+    "Biom": "",
+    "PackageID": "",
+    "OrderType": "Beautified",
+    "Tags": "",
+    "State": "Draft",
+    "Description": "",
+    "Name": "Save Icon",
+    "Resolutions": "16x16,24x24",
+    "VersionNumber": "0.1",
+    "Requirements": "",
+    "Requester": "Requestername",
+    "IconLocation": "Iconname.png",
+    "NeededUntil": "",
+    "RequesterMail": "requester@dspace.de",
+    "Iterations": "Draft, Final"
+}
